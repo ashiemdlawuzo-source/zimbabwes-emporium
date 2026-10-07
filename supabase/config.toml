@@ -1,0 +1,3 @@
+# Edge functions have been replaced by Next.js API routes:
+# - app/api/pi/approve/route.ts
+# - app/api/pi/complete/route.ts
