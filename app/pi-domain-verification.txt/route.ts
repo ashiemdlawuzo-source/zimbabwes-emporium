@@ -1,0 +1,5 @@
+export function GET() {
+  return new Response('f34b13f2f53f64a77129b9c86e74c43f5971be31f47d6186942fe7749bc2f6d2b3604403593ff632941d9222698fdc8fa8da95083b729307061db6e29ab2ca71', {
+    headers: { 'Content-Type': 'text/plain' },
+  });
+}
